@@ -1,2 +1,5 @@
-Changes drop down size to 50.
+Changes drop down size to 30.
 Adjusts the width of the timesheet table to be wider.
+
+Things to do later. 
+Make it a greasemonkey script so it runs whenever openair.com/timesheet loads.
