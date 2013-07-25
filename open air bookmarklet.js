@@ -16,6 +16,6 @@
 function($, L) {
 	$('body').delegate('.dhx_combo_select','focus', function(){ $(this).attr("size",30); });
 	var timesheetGrid = $('#timesheet_grid');
-	timesheetGrid.width(1600);
-	$(timesheetGrid.children('div')[1]).width(1600);
+	timesheetGrid.width(1500);
+	$(timesheetGrid.children('div')[1]).width(1500);
 });
